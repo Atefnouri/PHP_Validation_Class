@@ -34,3 +34,7 @@ body{
     border: none;
     border-radius: 10px;
   }
+
+  .error {
+    color: coral;
+  }
